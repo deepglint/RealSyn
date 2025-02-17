@@ -2,7 +2,7 @@
     <img src="Figure/logo_crop.png" width="25%">
 </p>
 
-## [*RealSyn*: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm](https://arxiv.org/abs/2406.06973)
+## *RealSyn*: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm
 
 <a href="https://github.com/GaryGuTC">Tiancheng Gu</a>,</span>
 <a href="https://kaicheng-yang0828.github.io">Kaicheng Yang</a>,</span>
@@ -22,7 +22,7 @@ Ziyong Feng,</span>
 
 ## 📣 News
 - [2024/02/18]:✨The *RealSyn* Dataset has been released in [🤗Hugging Face](https://huggingface.co/datasets/Kaichengalex/RealSyn100M).
-- [2025/02/18]:✨The paper of *RealSyn* has submitted to [arXiv](https://arxiv.org/abs/2406.06973).
+- [2025/02/18]:✨The paper of *RealSyn* has submitted to arXiv.
 
 ## 💡 Introduction
 <p align="center">
