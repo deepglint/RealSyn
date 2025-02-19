@@ -16,7 +16,7 @@ Ziyong Feng,</span>
 
 [![Static Badge](https://img.shields.io/badge/HuggingFace-RealSyn_Dataset-blue?style=social)
 ](https://huggingface.co/datasets/Kaichengalex/RealSyn100M)
-![Static Badge](https://img.shields.io/badge/arxiv-2502.12513-blue)
+[![Static Badge](https://img.shields.io/badge/arxiv-2502.12513-blue)](https://arxiv.org/pdf/2502.12513)
 
 
 
