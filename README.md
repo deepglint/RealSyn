@@ -16,13 +16,15 @@ Ziyong Feng,</span>
 
 [![Static Badge](https://img.shields.io/badge/HuggingFace-RealSyn_Dataset-blue?style=social)
 ](https://huggingface.co/datasets/Kaichengalex/RealSyn100M)
+![Static Badge](https://img.shields.io/badge/arxiv-2502.12513-blue)
+
 
 
 
 
 ## 📣 News
 - [2025/02/18]:✨The *RealSyn* Dataset has been released in [🤗Hugging Face](https://huggingface.co/datasets/Kaichengalex/RealSyn100M).
-- [2025/02/18]:✨The paper of *RealSyn* has submitted to arXiv.
+- [2025/02/18]:✨The paper of *RealSyn* has submitted to [arXiv](https://arxiv.org/pdf/2502.12513).
 
 ## 💡 Introduction
 <p align="center">
@@ -89,7 +91,14 @@ This project would not have been possible without the invaluable contributions o
 If you find this repository useful, please use the following BibTeX entry for citation.
 
 ```latex
-
+@misc{gu2025realsyn,
+      title={RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm}, 
+      author={Tiancheng Gu and Kaicheng Yang and Chaoyi Zhang and Yin Xie and Xiang An and Ziyong Feng and Dongnan Liu and Weidong Cai and Jiankang Deng},
+      year={2025},
+      eprint={2502.12513},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ```
 
