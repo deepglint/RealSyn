@@ -15,6 +15,7 @@ bash hfd.sh Kaichengalex/RealSyn100M --dataset --tool aria2c -x 10
 ## Download the images with img2dataset
 ```bash
 # pip install img2dataset
+# For better performance, it's highly recommended to set up a fast dns resolver, see here: https://github.com/rom1504/img2dataset#setting-up-a-high-performance-dns-resolver
 img2dataset --url_list RealSyn100M/data \
         --input_format "parquet"\
         --url_col "raw_image_url" \
