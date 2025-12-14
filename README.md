@@ -21,7 +21,7 @@ Ziyong Feng,</span>
 
 
 ## 📣 News
-- [2025/12/01]:🔥We update RealSyn [download handbook](download.md) for fast use.
+- [2025/12/01]:🔥We have updated the RealSyn [download Handbook](download.md) and provided a [Quick-Start Notebook](Check_RealSyn_data_Webdataset.ipynb) for easy use.
 - [2025/07/05]:🔥The *RealSyn* Dataset has been Accepeted by ACM MM25.
 - [2025/02/18]:✨The *RealSyn* Dataset has been released in [🤗Hugging Face](https://huggingface.co/datasets/Kaichengalex/RealSyn100M).
 - [2025/02/18]:✨The paper of *RealSyn* has submitted to [arXiv](https://arxiv.org/pdf/2502.12513).

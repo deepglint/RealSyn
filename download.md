@@ -29,8 +29,8 @@ img2dataset --url_list RealSyn100M/data \
         --caption_col "text1" \
         --output_format webdataset \
         --output_folder RealSyn100M-webdataset \
-        --processes_count 32 \
-        --thread_count 64 \
+        --processes_count 16 \
+        --thread_count 32 \
         --image_size 224 \
         --resize_only_if_bigger=True \
         --resize_mode="keep_ratio" \
