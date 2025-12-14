@@ -9,7 +9,14 @@ Download RealSyn Dataset from [🤗Hugging Face](https://huggingface.co/collecti
 ```bash
 # brew install git-xet
 # git xet install
-bash hfd.sh Kaichengalex/RealSyn100M --dataset --tool aria2c -x 10
+
+# sudo apt update
+# sudo apt install aria2
+
+# curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+# sudo apt-get install git-lfs
+# git lfs install
+bash hfd.sh Kaichengalex/RealSyn100M --dataset --tool aria2c -x 10 # Download files about the image URL and texts for RealSyn100M
 ```
 
 ## Download the images with img2dataset
